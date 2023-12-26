@@ -8,15 +8,18 @@ This program implements a simple Boggle game where the user can enter words on a
    ```bash
    git clone https://github.com/sushrit7/Boogle-Board.git
    ```
-2. ** Compile the boogleboard.cpp file or change to the output directory and run the compiled boogleboard
+2. **Compile the boogleboard.cpp file or change to the output directory and run the compiled boogleboard
    ```bash
    g++ -o boogleboard boogleboard.cpp
    ```
-OR
+   
+		OR
+
     ```bash
       cd output
     ./boogleboard
     ```
+    
 4. ENJOY! 
 ```bash
 Your Boggle Board:
@@ -41,4 +44,5 @@ This board contains WAND.
 
 Press <Enter> key to continue...
 ```
+
 5. Enter **** to EXIT.
