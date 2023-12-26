@@ -2,7 +2,8 @@
 
 This program implements a simple Boggle game where the user can enter words on a randomly generated letter board. The objective is to find words formed by contiguous sequences of letters that are horizontally, vertically, or diagonally adjacent. The program uses recursion to search for words on the board.
 
-##Key Features
+## Key Features
+
 - **Random Board Generation:** Each game starts with a fresh, unpredictable board.
 - **Recursive Word Search:** The program efficiently explores the board using recursion to find valid words.
 - **User-Friendly Interface:** Enter words easily and see which letters were used to form them.
@@ -51,5 +52,6 @@ Press <Enter> key to continue...
 
 5. Enter **** to EXIT the game.
 
-##Contributing
+## Contributing
+
 Feel free to contribute to the project and suggest improvements to enhance the Boggle gaming experience!
