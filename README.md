@@ -8,6 +8,16 @@ This program implements a simple Boggle game where the user can enter words on a
    ```bash
    git clone https://github.com/sushrit7/Boogle-Board.git
    ```
+2. ** Compile the boogleboard.cpp file or change to the output directory and run the compiled boogleboard
+   ```bash
+   g++ -o boogleboard boogleboard.cpp
+   ```
+OR
+    ```bash
+      cd output
+    ./boogleboard
+    ```
+4. ENJOY! 
 ```bash
 Your Boggle Board:
 
@@ -18,4 +28,17 @@ Your Boggle Board:
   		  N R J G V 
 
 Please enter a word to see if it's on board. Enter **** to stop.
--->
+-->wand
+		The following letters were used:
+
+  		  # # # # # 
+  		  # D # # # 
+  		  # A N # # 
+  		  # # W # # 
+  		  # # # # # 
+
+This board contains WAND.
+
+Press <Enter> key to continue...
+```
+5. Enter **** to EXIT.
