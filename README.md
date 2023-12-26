@@ -21,8 +21,8 @@ This program implements a simple Boggle game where the user can enter words on a
    
    //OR
 
-      cd output
-    ./boogleboard
+   cd output
+   ./boogleboard
     ```
     
 4. **Enjoy the Boggle Game!**
