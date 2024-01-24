@@ -35,7 +35,7 @@ Your Boggle Board:
   		  Z Z W M W 
   		  N R J G V 
 
-Please enter a word to see if it\'s on board. Enter **** to stop.
+Please enter a word to see if it's on board. Enter **** to stop.
 -->wand
 		The following letters were used:
 
